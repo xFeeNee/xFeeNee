@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨‍🎓 Second-year Computer Science Student<br>Specializing in web and mobile applications.<br><br><br>🌱 I’m currently learning <br>Java<br>Python<br>C++<br>💬 Ask me about everything! <br>Even if I don't know the answer, I will try to get knowledge about it!<br><br>⚡ Fun fact<br>Basketball enjoyer 🏀<br>Gym enjoyer 💪 <br> Currently Working as: Software tester
+👨‍🎓 Second-year Computer Science Student<br>Specializing in web and mobile applications.<br><br><br>🌱 I’m currently learning <br>Java<br>Python<br>C++<br>💬 Ask me about everything! <br>Even if I don't know the answer, I will try to get knowledge about it!<br><br>⚡ Fun fact<br>Basketball enjoyer 🏀<br>Gym enjoyer 💪 <br> Currently Working as: Software tester 💻🤳
 
 
 ## 🌐 Socials:
