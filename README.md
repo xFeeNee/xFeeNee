@@ -8,11 +8,10 @@
 # 💻 Tech Stack:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=xFeeNee&theme=panda&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![]([https://github-readme-streak-stats.herokuapp.com/?user=xFeeNee&theme=panda&hide_border=true](https://github-readme-streak-stats.herokuapp.com/?user=xFeeNee&theme=panda&hide_border=true))<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=xFeeNee&theme=panda&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=xFeeNee&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=xFeeNee&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=xFeeNee&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=xFeeNee&icon=0&color=10)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=xFeeNee&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
